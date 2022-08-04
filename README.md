@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/renan--martini/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/> </a> 
 <a href="https://portfolio-zeta-six-32.vercel.app" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="linkeding"/> </a>
 <a href="https://api.whatsapp.com/send?phone=5511973965919" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/> </a>
-<img src="https://ibb.co/xDSVmd9" alt="typing" width="300" align="right" />
+<img src="https://i.ibb.co/nbsh3td/profile-pic-1.png" alt="profile-pic" border="0">
 </h1>
 
 <br> 
